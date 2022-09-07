@@ -1,0 +1,5 @@
+
+Neos\Neos\Ui\Controller\BackendController:
+  properties:
+    styleAndJavascriptInclusionService:
+      object: 'MhsDesign\ProposalNeosUiEsmPluginLoader\CustomAttributesStyleAndJavascriptInclusionService'
